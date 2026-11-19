@@ -5,6 +5,9 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Fixed
+- Install this project from its repository in the README instead of a PyPI name (#10).
+
 ## [0.2.0] - 2026-09-22
 
 ### Added
