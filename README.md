@@ -6,7 +6,7 @@ nginx access logs and Linux `auth.log` / `secure` files.
 ## Install
 
 ```bash
-pip install log-sleuth
+pip install "git+https://github.com/infosecdemo42/logsleuth.git"
 ```
 
 Or from a checkout:
